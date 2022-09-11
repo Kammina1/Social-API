@@ -34,6 +34,6 @@ const thoughtSchema = new Schema(
 thoughtSchema.virtual("reactionCount").get(function() {
   return this.reactions.length
 })
-
+// Assigned to a var then exported 
 const Thought = model("thought", thoughtSchema)
 module.exports = Thought
