@@ -16,8 +16,8 @@ connection.once('open', async () => {
   // Create empty array to hold the Users
   const users = [];
 
-  // Loop 8 times -- add users to the users array
-  for (let i = 0; i < 8; i++) {
+  // Loop 5 times -- add users to the users array
+  for (let i = 0; i < 4; i++) {
     // Get some random assignment objects using a helper function that we imported from ./data
     const username = getRandomUsername()
     const email = getRandomEmail()
