@@ -9,4 +9,4 @@
 ### To use simply clone the code, navigate into your terminal and run "npm i" then "npm run seed", and finally "npm start". Then navigate to your local host and try for yourself! 
 
 ### Link to walkthrough video:
-- [Walk through video on my drive:] (https://drive.google.com/file/d/1i4foQc3TftZ_xAobZWihBeB8rD_BmQ4F/view)
+- [Walk through video on my drive:](https://drive.google.com/file/d/1i4foQc3TftZ_xAobZWihBeB8rD_BmQ4F/view)
